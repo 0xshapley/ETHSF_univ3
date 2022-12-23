@@ -46,7 +46,7 @@ The python code is used to query the uniswap subgraph in GraphQL and extract the
 
 Conclusion:
 
-From the standpoint of a public service, if you're an LP and are worried about risk, want to use as little money as possible (be capital efficient), and have no clue where the price of your token may diverge, then do +/- 84%
+From the standpoint of a public service, if you're an LP and are worried about risk, want to use as little money as possible (be capital efficient), and have no clue where the price of your token may diverge, then +/- 84% could be the optimal range.
 
 
 
